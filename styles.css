@@ -1,0 +1,31 @@
+.block{
+margin-left: 10%;
+border: 2px solid rgba(128, 128, 128, 0.21);
+border-radius:3% ;
+width: 400px;
+box-sizing: border-box;
+}
+.desc{
+    padding-left: 10px;
+}
+img{
+    width: 100%;
+    height: auto;
+border-top-left-radius: 3%;
+border-top-right-radius: 3%;
+}
+
+
+.box{
+    margin-right: 250PX;
+    padding: 1px;
+    width: auto;
+    height: auto;
+    border: 2px solid rgba(128, 128, 128, 0.21);
+    color: blue;
+    text-align: center;
+}
+.first, .third{
+color:rgba(0, 0, 0, 0.734)
+}
+
